@@ -1,12 +1,12 @@
 # Base configs
 baseurl: ""
-url: "http://photography.ramswaroop.me"
+url: "https://cutelittleturtle.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
+title: "Photography by 张嘉予"
 subtitle: "See the world through my eyes!"
 author: "Ram Patra"
 bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
